@@ -1,4 +1,6 @@
-Link to website : https://cerulean-biscotti-3c30a5.netlify.app/
+Below are two links to the same website with same logic but different UI/UX : 
+            https://cerulean-biscotti-3c30a5.netlify.app/
+            v0-real-time-order-management.vercel.app
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Real-Time Order Management System
 
