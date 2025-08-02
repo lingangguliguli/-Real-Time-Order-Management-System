@@ -1,6 +1,7 @@
 Below are the link to the website both have same LOGIC but different UI/UX:
 *(Clean Professional dark themed)* : [v0-real-time-order-management.vercel.app](https://v0-real-time-order-management.vercel.app/login)
-*(Sleak design with light theme)* : https://cerulean-biscotti-3c30a5.netlify.app/            
+*(Sleak design with light theme)* : https://cerulean-biscotti-3c30a5.netlify.app/   
+(*USERNAME - admin , PASSWORD - password*)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Real-Time Order Management System
 
